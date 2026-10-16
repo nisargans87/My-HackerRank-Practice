@@ -1,73 +1,57 @@
-::: {align="center"}
-# 💻 HackerRank Practice
+<!-- HackerRank-inspired dark and green README -->
 
-### A Multi-Language Coding Journey • Problem Solving • Continuous Learning
+<div align="center">
 
-```{=html}
-<p>
-```
-`<a href="https://www.hackerrank.com/profile/nisargans011">`{=html}
-`<img src="https://img.shields.io/badge/HackerRank-View%20My%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">`{=html}
-`</a>`{=html}
-`<img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue?style=for-the-badge" alt="Problem Solving">`{=html}
-`<img src="https://img.shields.io/badge/Languages-Multi--Language-orange?style=for-the-badge" alt="Multi-language">`{=html}
-`<img src="https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge" alt="Active Learning">`{=html}
-```{=html}
-</p>
-```
-**A central repository for the coding problems I solve, the approaches I
-explore, and the programming skills I build every day.**
-:::👋 About This Repository
-Welcome to my HackerRank Practice repository!
-This repository documents my ongoing journey of solving programming
-problems on HackerRank and organizing my solutions on GitHub. I plan to
-practice problems across different topics and programming languages,
-including C++, Python, and other languages as I learn them.
-My goal is not only to submit correct solutions, but also to understand
-each problem, develop a clear approach, improve my problem-solving
-skills, and build a useful personal reference library.
-🔗 My HackerRank profile:
-hackerrank.com/profile/nisargans011
-🎯 Goals & Objectives
-- Practice consistently: Solve coding problems regularly and build
-  a sustainable learning habit.
-- Understand the approach: Record the logic, algorithm, and
-  reasoning behind each solution.
-- Build a multi-language collection: Practice and compare
-  solutions in C++, Python, and additional languages over time.
-- Strengthen fundamentals: Improve understanding of data types,
-  conditions, loops, functions, collections, and core programming
-  concepts.
-- Develop problem-solving skills: Progress toward algorithms, data
-  structures, and more challenging problems.
-- Keep a revision library: Organize solutions so I can revisit
-  concepts, learn from mistakes, and prepare for technical
-  assessments.
-- Track my growth: Use Git and GitHub to maintain a history of my
-  practice and learning progress.
-🧭 What You'll Find Here
-  Section                             What it contains
-  Problem Statement               Problem name, topic, and a link to
-                                      the original challenge when
-                                      available
-  Approach                        Step-by-step reasoning and the
-                                      logic used to solve the problem
-  Solution Code                   My submitted or practice
-                                      implementation
-  Complexity Analysis             Time and space complexity when
-                                      relevant
-  Learning Notes                  Important concepts, mistakes, edge
-                                      cases, and takeaways
-  Alternative Solutions           Other approaches or implementations
-                                  when useful
-The focus is on understanding and documenting the learning
-process---not simply collecting code.
+<img src="https://img.shields.io/badge/HACKERRANK-PRACTICE-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000000" alt="HackerRank Practice">
 
-🗂️ Repository Structure
-As the collection grows, I aim to organize it by programming language
-and topic. The structure below is a suggested starting point and can
-evolve with my practice.
+# <span style="color:#00EA64;">HackerRank Practice</span>
+
+### `LEARN` · `PRACTICE` · `SOLVE` · `IMPROVE`
+
+**My multi-language coding practice and problem-solving portfolio**
+
+<a href="https://www.hackerrank.com/profile/nisargans011">
+  <img src="https://img.shields.io/badge/VIEW%20HACKERRANK%20PROFILE-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000000" alt="View HackerRank Profile">
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=00EA64" alt="C++">
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00EA64" alt="Python">
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=00EA64" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00EA64" alt="GitHub">
+
+</div>
+
+---
+
+## 🟢 `01` — About This Repository
+
+Welcome to my **HackerRank Practice** repository — a growing collection of programming challenges, source code, problem-solving approaches, and technical learnings.
+
+I use HackerRank to practice coding problems and GitHub to organize my solutions, document my reasoning, and maintain a long-term learning record.
+
+My focus is on building strong programming fundamentals, improving logical thinking, and practicing across **C++, Python, and other programming languages** as I progress.
+
+> **My mission:** Understand the problem. Build the logic. Write the code. Learn from the result.
+
+## 🟢 `02` — Goals & Objectives
+
+| Focus | Objective |
+|:---|:---|
+| 🧠 Problem Solving | Improve analytical and logical thinking |
+| 💻 Programming | Strengthen C++, Python, and other language skills |
+| 📚 Fundamentals | Practice data types, conditions, loops, functions, and collections |
+| ⚙️ Algorithms | Progress toward algorithms and data structures |
+| 📝 Documentation | Record approaches, explanations, and key takeaways |
+| 🔄 Revision | Revisit earlier problems and improve implementations |
+| 📈 Growth | Track my learning journey through GitHub commits |
+
+## 🟢 `03` — Repository Architecture
+
+```text
 HackerRank-Practice/
+│
 ├── README.md
 │
 ├── C++/
@@ -91,73 +75,109 @@ HackerRank-Practice/
 └── Notes/
     ├── Approaches/
     └── Concepts-and-Learnings/
-Each solution may include its own source file and, where helpful, a
-short explanation. Folder names and categories will be adjusted to match
-the problems I actually solve.
-🧠 My Problem-Solving Workflow
-1. Read the problem statement and identify the inputs, outputs, and
-   constraints.
-2. Analyze examples and consider edge cases.
-3. Plan a clear approach before writing the code.
-4. Implement the solution in the selected programming language.
-5. Test the code with sample inputs and additional cases where
-   appropriate.
-6. Submit the solution on HackerRank and review the result.
-7. Document the approach, code, and useful takeaways in this
-   repository.
-8. Review previous problems to reinforce concepts and improve
-   future solutions.
-🛠️ Languages & Tools
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">{=html}
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">{=html}
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">{=html}
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">{=html}
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">{=html}
-</p>
-I will add more languages and tools as I explore them. These badges
-represent the tools and languages intended for this learning repository;
-they are not a claim of mastery.
-🌱 How This Repository Helps Me
-- Stronger fundamentals: Regular practice reinforces core
-  programming concepts.
-- Better logical thinking: Breaking a problem into smaller steps
-  improves analytical skills.
-- Interview preparation: A searchable collection makes it easier
-  to revise common patterns and topics.
-- Language flexibility: Implementing problems in different
-  languages helps me understand their syntax and features.
-- Visible progress: GitHub commits and organized solutions show
-  how my practice develops over time.
-- Reusable knowledge: Notes about approaches, mistakes, and edge
-  cases help me learn beyond a single submission.
-📌 Progress & Updates
-I will continue adding solutions as I practice. The collection will grow
-over time, and I will update the folders, explanations, and topic
-coverage as I progress.
-- [ ] Practice regularly across selected topics.
-- [ ] Document the reasoning behind solutions.
-- [ ] Revisit earlier problems and improve implementations.
-- [ ] Expand the collection across more programming languages.
-- [ ] Explore algorithms and data structures in greater depth.
-Checklist items will be updated as the work progresses.
-🔗 Useful Links
-- My HackerRank
-  Profile --- view
-  my profile and coding activity.
-- HackerRank --- explore
-  programming challenges and practice topics.
-- GitHub --- host, organize, and
-  version-control my solutions.
-🤝 Learning Philosophy
-I believe consistent practice, understanding the reasoning behind a
-solution, and revisiting what I learn are essential to improving as a
-programmer.
-This repository is a record of that process: learn a concept, solve a
-problem, understand the approach, document the solution, and keep
-improving.
-::: {align="center"}
-### 🚀 Learn • Practice • Solve • Review • Improve
+```
 
-*Built as part of my ongoing programming and problem-solving journey.*
-:::
+*The structure will evolve as I solve more problems and explore new topics.*
+
+## 🟢 `04` — My Problem-Solving Workflow
+
+<div align="center">
+
+| Step | Process |
+|:---:|:---|
+| `01` | 🔍 Understand the problem and constraints |
+| `02` | 🧠 Analyze examples and edge cases |
+| `03` | 📝 Plan a logical approach |
+| `04` | 💻 Implement the solution |
+| `05` | 🧪 Test the code |
+| `06` | ✅ Submit on HackerRank |
+| `07` | 📂 Document on GitHub |
+| `08` | 🔄 Review and improve |
+
+</div>
+
+## 🟢 `05` — What Each Solution Includes
+
+Where useful, each problem entry will contain:
+
+- **Problem name** and original challenge link
+- **Problem summary** and requirements
+- **Approach** explaining the reasoning
+- **Source code** for the implementation
+- **Complexity analysis** for time and space
+- **Key learnings**, mistakes, and edge cases
+- **Alternative approaches** when worth exploring
+
+The aim is to understand *why* a solution works, not just save the code.
+
+## 🟢 `06` — Technology Stack
+
+<div align="center">
+
+| Technology | Purpose |
+|:---|:---|
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> | Programming practice |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> | Programming practice |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> | Version control |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> | Code hosting and documentation |
+| <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"> | Coding challenges |
+
+</div>
+
+Additional languages and tools will be added as I learn them. These labels indicate my learning focus, not mastery of every technology.
+
+## 🟢 `07` — How This Helps Me Grow
+
+- **Consistent practice:** Develop a regular coding habit.
+- **Stronger fundamentals:** Reinforce concepts through implementation.
+- **Better reasoning:** Learn to break problems into manageable steps.
+- **Technical preparation:** Revise algorithms and common coding patterns.
+- **Multi-language experience:** Compare how different languages solve similar problems.
+- **A personal knowledge base:** Keep approaches and explanations for future reference.
+- **A visible portfolio:** Demonstrate practical learning and steady improvement.
+
+## 🟢 `08` — Learning Roadmap
+
+- [ ] Practice programming fundamentals
+- [ ] Document problem-solving approaches
+- [ ] Expand my C++ solutions
+- [ ] Build my Python solutions collection
+- [ ] Explore additional programming languages
+- [ ] Practice algorithms and data structures
+- [ ] Revisit and optimize earlier solutions
+
+*Progress will be updated as I continue learning.*
+
+## 🟢 `09` — Connect & Practice
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/profile/nisargans011">
+  <img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000000" alt="HackerRank">
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=00EA64" alt="GitHub">
+</a>
+
+</div>
+
+## 🟢 `10` — My Learning Philosophy
+
+I believe that consistent practice, clear reasoning, and learning from mistakes are essential to becoming a better programmer.
+
+Every challenge is an opportunity to strengthen a concept, explore a new approach, and develop more effective problem-solving habits.
+
+This repository represents my commitment to **continuous learning, practical coding, and measurable progress — one problem at a time.**
+
+---
+
+<div align="center">
+
+### <span style="color:#00EA64;">BUILD LOGIC. WRITE CODE. KEEP GROWING.</span>
+
+**A continuous journey of programming practice and problem-solving.**
+
+<sub>Maintained with 💚 and consistency.</sub>
+
+</div>
